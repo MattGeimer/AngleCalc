@@ -5,7 +5,7 @@
 //  Created by Matthew Geimer on 2/9/21.
 //
 
-import Foundation
+import SpriteKit
 
 /// Determines the value of an angle over the range [0°, 360°]
 /// - Parameter val: Angle to recalculate. Measured in degrees.

@@ -5,7 +5,7 @@
 //  Created by Matthew Geimer on 2/9/21.
 //
 
-import Foundation
+import SpriteKit
 
 /// Determines whether an angle is within a range of two other angles. If not, returns the limit that's closest to that angle
 /// - Parameters:
